@@ -1,0 +1,210 @@
+2021-03-25 15:36:15 [INFO ] c.p.r.NativeLoader:64 - ********************************
+2021-03-25 15:36:15 [INFO ] c.p.r.NativeLoader:65 - Native library search paths: 
+2021-03-25 15:36:15 [INFO ] c.p.r.NativeLoader:948 - C:\Users\Андрей\AppData\Roaming\PVS-Studio-Java\7.12.46137
+2021-03-25 15:36:15 [INFO ] c.p.r.NativeLoader:948 - .
+2021-03-25 15:36:15 [INFO ] c.p.r.NativeLoader:948 - C:\Users\Андрей\AppData\Roaming\PVS-Studio-Java\7.12.46137\..
+2021-03-25 15:36:15 [INFO ] c.p.r.NativeLoader:948 - C:\Users\Андрей\AppData\Roaming\PVS-Studio-Java\7.12.46137\..\..
+2021-03-25 15:36:15 [INFO ] c.p.r.NativeLoader:948 - C:\Users\Андрей\AppData\Roaming\PVS-Studio-Java\7.12.46137\..\..\build
+2021-03-25 15:36:15 [INFO ] c.p.r.NativeLoader:67 - Additional path: native/win
+2021-03-25 15:36:15 [INFO ] c.p.r.NativeLoader:76 - Native library found: C:\Users\Андрей\AppData\Roaming\PVS-Studio-Java\7.12.46137\native\win\analysis-core.dll
+2021-03-25 15:36:15 [INFO ] c.p.r.NativeLoader:77 - ********************************
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:49 - Module: 2.2.1. spring_hibernate
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:50 - Sources:
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:52 - Classpath:
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.jfr
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.security.auth
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.jcmd
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.crypto.mscapi
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.dynalink
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.crypto.ec
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/java.security.jgss
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.naming.rmi
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/java.rmi
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.hotspot.agent
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.editpad
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/java.xml
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.internal.opt
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.jartool
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.internal.le
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.internal.vm.compiler.management
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/java.naming
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.internal.vm.compiler
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/java.desktop
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/java.management
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/java.transaction.xa
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.scripting.nashorn
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/java.net.http
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.crypto.cryptoki
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.jlink
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.xml.dom
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.management.agent
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.javadoc
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/java.instrument
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/java.base
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.charsets
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/java.compiler
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.internal.ed
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.net
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.rmic
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.pack
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/java.management.rmi
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.httpserver
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.jconsole
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.internal.jvmstat
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.jdi
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.scripting.nashorn.shell
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.jdeps
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/java.logging
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.accessibility
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/java.sql
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.aot
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/java.se
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.management.jfr
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.security.jgss
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/java.datatransfer
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/java.security.sasl
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.unsupported
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.compiler
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.internal.vm.ci
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/java.scripting
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.jstatd
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/java.smartcardio
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.jshell
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.localedata
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.sctp
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.jsobject
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.naming.dns
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.unsupported.desktop
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.zipfs
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.jdwp.agent
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.management
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.attach
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/java.prefs
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/java.sql.rowset
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/java.xml.crypto
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:49 - Module: spring-hibernate
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:50 - Sources:
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/Андрей/IdeaProjects/2.2.1. spring_hibernate/2.2.1. spring_hibernate/src/test/java
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/Андрей/IdeaProjects/2.2.1. spring_hibernate/2.2.1. spring_hibernate/src/main/java
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:52 - Classpath:
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.security.auth
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.jcmd
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/Андрей/.m2/repository/com/sun/xml/fastinfoset/FastInfoset/1.2.15/FastInfoset-1.2.15.jar
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/java.rmi
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/Андрей/.m2/repository/org/hibernate/hibernate-core/5.4.30.Final/hibernate-core-5.4.30.Final.jar
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.hotspot.agent
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.editpad
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.internal.opt
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.jartool
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/Андрей/.m2/repository/org/springframework/spring-aop/5.0.1.RELEASE/spring-aop-5.0.1.RELEASE.jar
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.internal.vm.compiler.management
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/java.naming
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.internal.vm.compiler
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/java.transaction.xa
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.scripting.nashorn
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/Андрей/.m2/repository/org/hibernate/common/hibernate-commons-annotations/5.1.2.Final/hibernate-commons-annotations-5.1.2.Final.jar
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.xml.dom
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/Андрей/.m2/repository/org/springframework/spring-orm/5.0.1.RELEASE/spring-orm-5.0.1.RELEASE.jar
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/java.base
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/java.compiler
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/Андрей/.m2/repository/org/glassfish/jaxb/txw2/2.3.1/txw2-2.3.1.jar
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/Андрей/.m2/repository/org/springframework/spring-jdbc/5.0.1.RELEASE/spring-jdbc-5.0.1.RELEASE.jar
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.rmic
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/Андрей/.m2/repository/org/springframework/spring-tx/5.0.1.RELEASE/spring-tx-5.0.1.RELEASE.jar
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.jdi
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.scripting.nashorn.shell
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.jdeps
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/java.se
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/Андрей/.m2/repository/javax/persistence/javax.persistence-api/2.2/javax.persistence-api-2.2.jar
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/Андрей/.m2/repository/org/jboss/jandex/2.2.3.Final/jandex-2.2.3.Final.jar
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/Андрей/.m2/repository/net/bytebuddy/byte-buddy/1.10.21/byte-buddy-1.10.21.jar
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/Андрей/.m2/repository/org/springframework/spring-context/5.0.1.RELEASE/spring-context-5.0.1.RELEASE.jar
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.compiler
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/Андрей/.m2/repository/org/springframework/spring-beans/5.0.1.RELEASE/spring-beans-5.0.1.RELEASE.jar
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/Андрей/.m2/repository/org/jboss/logging/jboss-logging/3.4.1.Final/jboss-logging-3.4.1.Final.jar
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.jshell
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.localedata
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/Андрей/.m2/repository/mysql/mysql-connector-java/6.0.5/mysql-connector-java-6.0.5.jar
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.sctp
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.naming.dns
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.unsupported.desktop
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.zipfs
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/Андрей/.m2/repository/org/springframework/spring-expression/5.0.1.RELEASE/spring-expression-5.0.1.RELEASE.jar
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.management
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.attach
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/Андрей/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.1/jaxb-runtime-2.3.1.jar
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/java.prefs
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/java.sql.rowset
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/java.xml.crypto
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.jfr
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.crypto.mscapi
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.dynalink
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/Андрей/.m2/repository/antlr/antlr/2.7.7/antlr-2.7.7.jar
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.crypto.ec
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/java.security.jgss
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.naming.rmi
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/Андрей/.m2/repository/javax/xml/bind/jaxb-api/2.3.1/jaxb-api-2.3.1.jar
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/Андрей/.m2/repository/org/dom4j/dom4j/2.1.3/dom4j-2.1.3.jar
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/java.xml
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.internal.le
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/java.desktop
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/java.management
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/java.net.http
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/Андрей/.m2/repository/org/jvnet/staxex/stax-ex/1.8/stax-ex-1.8.jar
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.crypto.cryptoki
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.jlink
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/Андрей/.m2/repository/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.jar
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.management.agent
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.javadoc
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/java.instrument
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.charsets
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.internal.ed
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.net
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.pack
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/java.management.rmi
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.httpserver
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/Андрей/.m2/repository/com/fasterxml/classmate/1.5.1/classmate-1.5.1.jar
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.jconsole
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.internal.jvmstat
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/java.logging
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.accessibility
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/java.sql
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.aot
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.management.jfr
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.security.jgss
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/Андрей/.m2/repository/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.1.1.Final/jboss-transaction-api_1.2_spec-1.1.1.Final.jar
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/Андрей/.m2/repository/org/springframework/spring-core/5.0.1.RELEASE/spring-core-5.0.1.RELEASE.jar
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/java.datatransfer
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/java.security.sasl
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.unsupported
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/Андрей/.m2/repository/org/springframework/spring-jcl/5.0.1.RELEASE/spring-jcl-5.0.1.RELEASE.jar
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/Андрей/.m2/repository/com/sun/istack/istack-commons-runtime/3.0.7/istack-commons-runtime-3.0.7.jar
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.internal.vm.ci
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/java.scripting
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.jstatd
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/java.smartcardio
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/Андрей/.m2/repository/org/javassist/javassist/3.27.0-GA/javassist-3.27.0-GA.jar
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.jsobject
+2021-03-25 15:36:19 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-11!/jdk.jdwp.agent
+2021-03-25 15:36:20 [INFO ] c.p.p.IncrementalLauncher:154 - Load model from cache...
+2021-03-25 15:36:20 [INFO ] c.p.p.IncrementalLauncher:168 - Build model incrementally...
+2021-03-25 15:36:20 [INFO ] c.p.p.IncrementalLauncher:169 - Current time: 1616675780790
+2021-03-25 15:36:20 [INFO ] c.p.p.IncrementalLauncher:170 - Last build time: 1616657641001
+2021-03-25 15:36:20 [INFO ] c.p.p.IncrementalLauncher:171 - Keyset size: 7
+2021-03-25 15:36:20 [INFO ] c.p.p.IncrementalLauncher:172 - Input sources size: 8
+2021-03-25 15:36:20 [INFO ] c.p.p.IncrementalLauncher:178 - Removed sources size: 0
+2021-03-25 15:36:20 [INFO ] c.p.p.IncrementalLauncher:179 - Added sources size: 1
+2021-03-25 15:36:20 [INFO ] c.p.p.IncrementalLauncher:180 - Common sources size: 8
+2021-03-25 15:36:20 [INFO ] c.p.p.IncrementalLauncher:191 - Incremental sources size: 8
+2021-03-25 15:36:20 [INFO ] c.p.p.IncrementalLauncher:194 - Old types size: 7
+2021-03-25 15:36:20 [INFO ] c.p.p.IncrementalLauncher:205 - Changed types size: 7
+2021-03-25 15:36:20 [INFO ] c.p.p.IncrementalLauncher:207 - Enter types loop
+2021-03-25 15:36:20 [INFO ] c.p.p.IncrementalLauncher:229 - Exit types loop
+2021-03-25 15:36:20 [INFO ] c.p.p.IncrementalLauncher:241 - Old packages size: 6
+2021-03-25 15:36:20 [INFO ] c.p.p.IncrementalLauncher:250 - Data processed
+2021-03-25 15:36:20 [INFO ] c.p.p.IncrementalLauncher:256 - Added: 1
+2021-03-25 15:36:20 [INFO ] c.p.p.IncrementalLauncher:257 - Removed: 0
+2021-03-25 15:36:20 [INFO ] c.p.p.IncrementalLauncher:258 - Modified : 7
+2021-03-25 15:36:23 [INFO ] c.p.p.IncrementalLauncher:312 - Cache saving started.
+2021-03-25 15:36:23 [INFO ] c.p.p.IncrementalLauncher:355 - Cache saving finished.
+2021-03-25 15:36:23 [INFO ] c.p.p.Module:383 - Model build success.
